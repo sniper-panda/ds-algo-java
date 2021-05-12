@@ -10,4 +10,4 @@ intrigue into Product Management, Travel and Food.
 🌱 A lifelong learner, with a voracity to read. 
 
 📫 Trying to put out Short and Concise solutions to Data Structures and Algorithmic 
-Challenges which can be easily understood, emphasising more than being shorter in length of code. 
+Challenges emphasising more onto be easily understood, than being shorter in length of code. 
